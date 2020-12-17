@@ -1,1 +1,9 @@
-/* You can add global styles to this file, and also import other style files */
+@import 'ngx-toastr/toastr';
+
+body{
+    background: linear-gradient(to right,rgba(15,32,39, 0.8), rgba(44,83,100, 0.8)), url('./assets/lacoste.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}

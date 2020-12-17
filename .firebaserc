@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "empleados-w4pp": {
+      "hosting": {
+        "empleados": [
+          "empleados-w4pp"
+        ]
+      }
+    }
+  }
+}
